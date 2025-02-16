@@ -1,0 +1,48 @@
+201 los que se requieren para obtener una seguridad razonable, en donde se 
+evalúan asuntos o procesos específicos, con lo cual el concepto que se emite 
+se circunscribe al cumplimiento o no de los criterios evaluados.  
+ 
+En la auditoría de seguridad limitada, en el concepto el auditor indica que nada 
+ha llamado su atención con relación al  no cumplimiento de los criterios. Bajo 
+este tipo de seguridad se expresaría una conclusión de dos tipos de la 
+siguiente manera:  
+ 
+• “Nada de lo observado  en la evaluación  nos permite concluir que la materia 
+controlada No Resulta Conforme , en todos los aspectos significativos con 
+los criterios de evaluación determinados en la auditoría ...”  
+ 
+• “Lo observado en la evaluación nos permite concluir que la materia 
+controlada No Resulta Conforme , en todos los aspectos significativos, con 
+lo criterios declarados... ” 
+ 
+Para cualquier tipo de conclusión o concepto el auditor debe utilizar el juicio 
+profesional para establecer la naturaleza, el alcance y la oportunidad de los 
+procedimientos.  
+ 
+En términos generales en las CT se aplica la seguridad razonable, dado que en 
+los informes se expresa un concepto  producto de la aplicación de procedimientos 
+y pruebas amplias, del entendimiento de la entidad, la evaluación del control 
+interno y la acumulación de evidencia ; sin embargo,  si el alcance de la evaluación 
+y la realización de procedimientos son limitados evaluando asuntos o procesos 
+específicos y/o en casos excepcionales  si la información evaluada no es 
+concluyente y por tanto se presenta abstención de concepto, en estos casos se 
+está frente a un escenario de seguridad limitada.   
+ 
+4.1.3.6 Informaciones basadas en afirmaciones.199 
+ 
+En el contexto de la AC una afirmación de cumplimiento significa que la entidad 
+auditada y los funcionarios responsables de la misma están actuando con sujeción 
+a las normas aplicables, lo cual puede hacerse explícito en una carta de 
+manifestaciones escrita por el responsable o implícitamente a través de 
+documentos, registros u otro soporte suministrado y evaluado.  
+ 
+Las afirmaciones comprenden los objetivos específicos de auditoría sobre los 
+cuales el auditor desea extraer una conclusión. Estas pueden generarse por 
+iniciativa del auditado o por solicitud de los auditores y pueden referirse a aspectos 
+legales, técnicos  y operacionales, entre otros.  
+ 
+Cuando se verifica que la entidad auditada no ha observado la norma, estamos 
+frente a una desviación de cumplimiento . 
+ 
+ 
+199 ISSAI 4100.26; ISSAI 4200.32.1  
